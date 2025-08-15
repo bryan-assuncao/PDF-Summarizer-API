@@ -1,0 +1,5 @@
+Flask
+PyMuPDF
+fpdf2
+google-generativeai
+python-dotenv
